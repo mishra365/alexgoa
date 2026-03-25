@@ -362,7 +362,7 @@ const B2BPanelCards = () => {
   type="button"
   className="floating-btn"
   onClick={() => {
-    const phoneNumber = "919376276547";
+    const phoneNumber = "+1(382)7005944";
     const message = `Hello I need B2B ${panel.name} panel`;
     const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
     
